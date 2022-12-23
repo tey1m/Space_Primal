@@ -1,0 +1,84 @@
+Game Ideas:
+
+1. RottenFood
+
+	- Store:
+		- We buy food from the store paying attention to the AMOUNT and EXPIRATION DATE
+
+	- Fridge
+		- Goes to fridge after we buy it
+		- If food stays too much rott
+
+	- Kitchen
+		- We have bowls
+		- We cook certain recepies
+		- We need to make it at a good amount so it does not rott
+		- If too much -> Goes to fridge
+
+	- Game Levels
+		- At Home by himself with a lot of TIME
+		- Works at a small cafeterria
+		- Works in a bigger restaurant
+		- Keeps increasing
+
+
+2. Bike Delivery Game
+
+	- Game Logic
+		- A guy is delivering food with a bike 
+		- There are obstacles:
+			- People
+			- Other Bikes
+			- Random Objects
+			- Cars
+
+	- Budget
+		- Gets paid per km 
+		- As bike gets better earns more money, technically
+
+	- Map 
+		- Gets bigger as level up
+
+	- Store
+		- Bikes
+		- Bike accessories
+
+	- Bike
+		- Needs light [if light off, fine by random]
+		- Needs good brakes [update in a while]
+		- Tires inflate
+
+	- Game Levels
+		- Better Bike
+		- Bigger Map
+
+
+3. Primal Survival Pixel
+	
+	- Player
+		- Health
+		- Hunger bar
+		- Inventory
+		- Skills [crafting]
+
+	- Activites
+		- Fishing
+		- Hunting
+		- Farming
+		- Collecting
+		- Crafting
+
+	- Map
+		- Has Islands
+		- Can travel between islands if boat is made
+
+	- Islands
+		- Own habitat
+		- Own people
+
+	- Politics
+		- Either fight or become an ally with other islands
+
+	- Game Level
+		- Increasing Skills
+		- Bigger Map

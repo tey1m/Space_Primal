@@ -1,0 +1,52 @@
+3. Primal Survival Pixel
+
+	Game Preview:
+	    Our character is sent to space to colonise one of the planets.
+	    Character is provided with some resources with which they can start
+	    the colonization.
+
+	    Initial items:
+	        - Seeds
+	        - Farming tools
+
+	    Sadly, the spaceship the character travelled with is broken. Character
+	    needs to get some materials from the meteors flying around to be able
+	    to travel back home or to travel to other planets.
+
+	    Character is also expected to make a shelter so that they are not cold.
+	    Their oxygen mask is running out too which can only be fueled up in
+	    the shelter. Character is also expected to make tools appropriate for
+	    meteor fishing. Materials can be found on the surface of the planet and
+	    from mining process. That being said, our character is also expected to
+	    make mines and go under the ground.
+
+	    Character can trade some items and valuables with the aliens that visit
+	    him from time to time.
+
+	- Player
+		- Health
+		- Hunger bar
+		- Inventory
+		- Skills [crafting]
+
+	- Activites
+		- Fishing
+		- Hunting
+		- Farming
+		- Collecting
+		- Crafting
+
+	- Map
+		- Has Islands
+		- Can travel between islands if boat is made
+
+	- Islands
+		- Own habitat
+		- Own people
+
+	- Politics
+		- Either fight or become an ally with other islands
+
+	- Game Level
+		- Increasing Skills
+		- Bigger Map
